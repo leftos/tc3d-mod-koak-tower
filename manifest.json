@@ -1,0 +1,23 @@
+{
+  "name": "OAK Tower",
+  "author": "Dominic Nguyen",
+  "version": "1.0.0",
+  "modelFile": "model.glb",
+  "airports": [
+    "KOAK"
+  ],
+  "scale": 1,
+  "modelPosition": {
+    "lat": 37.719445922665386,
+    "lon": -122.22194407647218,
+    "height": 61,
+    "rotation": 0
+  },
+  "cameraPosition": {
+    "lat": 37.72131489708265,
+    "lon": -122.22095338830954,
+    "height": 76.01842919999793,
+    "heading": 161.39307313570873,
+    "pitch": -5.990452665859317
+  }
+}
